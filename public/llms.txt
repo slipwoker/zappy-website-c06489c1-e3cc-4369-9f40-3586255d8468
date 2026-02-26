@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+AMS Logistics delivers professional 3PL warehousing services in Morristown, NJ. Storage, inventory management, and fulfillment solutions designed for your business growth.
+
+### Services
+https://example.com/services
+From storage to fulfillment, our 3PL warehousing services cover every logistics need. Discover inventory management, returns processing, and distribution expertise.
+
+### Facility
+https://example.com/facility
+Explore our advanced Morristown warehouse facility equipped for seamless 3PL operations. Secure storage, climate control, and technology-driven logistics under one roof.
+
+### Contact
+https://example.com/contact
+Ready to optimize your supply chain? Contact AMS Logistics for customized 3PL warehouse solutions. Fast response, flexible terms, and expert consultation available now.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
